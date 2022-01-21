@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Montserrat:ital,wght@0,400;0,700;1,300&family=Noto+Sans&display=swap');
+
+body{
+    background: rgba(205,67,90,.6);
+    color: #909090;
+    font-family:'Caveat Brush', cursive;
+    text-align: center;
+    padding: 0 15%;
+    letter-spacing: .2rem;
+
+}
+h1{
+    text-transform: capitalize;
+
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #303002;
+}
+
+
+

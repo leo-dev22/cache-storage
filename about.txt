@@ -1,0 +1,4 @@
+In general,we can retain from this project:
+cache storage is for saving user's data on his computer for allow him to reconnect to website more faster than before and reduce a loading website time
+cache storage allows the user to navigate through his website even when his connection is OFF(online)
+it's also good for SEO google reference for website because when your site is already pre-loading through your cache storage,website loading becomes faster for the next connections
